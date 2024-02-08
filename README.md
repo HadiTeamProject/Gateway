@@ -1,7 +1,7 @@
 # Gateway
 This repository contains Arduino code that connect LoRa message with the Firebase database 
 
-##Main objective
+## Main objective
 Gateway is supposed to connect the LoRa network with the internet network. It is supposed to be deploy in road safety place or anywhere we internet connection is available.
 
 ## Components
