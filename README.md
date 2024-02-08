@@ -17,3 +17,8 @@ Gateway is supposed to connect the LoRa network with the internet network. It is
 <li> ESP32 GPIO 26 = LoRa Rx </li>
 <li>ESP32 GPIO 27 = LoRa Tx</li>
 
+
+** notes:
+<li>use arduino IDE </li> 
+<li>LoRa address is 1</li>
+<li>LoRa network is 4</li>
