@@ -18,7 +18,9 @@ Gateway is supposed to connect the LoRa network with the internet network. It is
 <li>ESP32 GPIO 27 = LoRa Tx</li>
 
 
-** notes:
+### Notes:
 <li>use arduino IDE </li> 
 <li>LoRa address is 1</li>
 <li>LoRa network is 4</li>
+<li>LoRa band is 915 MHz</li>
+<li>LoRa braud rate is 9600 </li>
